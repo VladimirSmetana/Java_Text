@@ -73,7 +73,6 @@ class txtDriver
         for(int i = 0; i<rows; i++){
             out.add(table[i][id-1]);
         }
-
         return out;
 
     }
